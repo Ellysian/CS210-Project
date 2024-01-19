@@ -4,6 +4,8 @@
 # But not these files...
 !.gitignore
 !analyze.ipynb
+!gre.txt
+!words.json
 
 # ...even if they are in subdirectories
 !*/
